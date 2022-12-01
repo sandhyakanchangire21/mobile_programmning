@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15794" started-at="2022-12-01T13:26:17 IST" finished-at="2022-12-01T13:26:33 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15794" started-at="2022-12-01T13:26:17 IST" finished-at="2022-12-01T13:26:33 IST">
+      <class name="org.Task_Api.Task">
+        <test-method status="PASS" signature="TC_GetRestFullBooker()[pri:1, instance:org.Task_Api.Task@1a1d6a08]" name="TC_GetRestFullBooker" duration-ms="9071" started-at="2022-12-01T13:26:18 IST" finished-at="2022-12-01T13:26:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_GetRestFullBooker -->
+        <test-method status="PASS" signature="TC_PostRestFullBooker()[pri:2, instance:org.Task_Api.Task@1a1d6a08]" name="TC_PostRestFullBooker" duration-ms="1778" started-at="2022-12-01T13:26:27 IST" finished-at="2022-12-01T13:26:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_PostRestFullBooker -->
+        <test-method status="PASS" signature="TC_verifyGetRestFullBooker()[pri:3, instance:org.Task_Api.Task@1a1d6a08]" name="TC_verifyGetRestFullBooker" duration-ms="1645" started-at="2022-12-01T13:26:28 IST" finished-at="2022-12-01T13:26:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_verifyGetRestFullBooker -->
+        <test-method status="PASS" signature="TC_updateRestFullBooker()[pri:4, instance:org.Task_Api.Task@1a1d6a08]" name="TC_updateRestFullBooker" duration-ms="1616" started-at="2022-12-01T13:26:30 IST" finished-at="2022-12-01T13:26:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_updateRestFullBooker -->
+        <test-method status="PASS" signature="TC_deleteRestFullBooker()[pri:5, instance:org.Task_Api.Task@1a1d6a08]" name="TC_deleteRestFullBooker" duration-ms="1516" started-at="2022-12-01T13:26:32 IST" finished-at="2022-12-01T13:26:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_deleteRestFullBooker -->
+      </class> <!-- org.Task_Api.Task -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
